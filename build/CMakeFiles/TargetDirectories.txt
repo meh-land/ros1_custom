@@ -35,3 +35,11 @@
 /root/my_ws/build/gtest/googletest/CMakeFiles/test.dir
 /root/my_ws/build/gtest/googletest/CMakeFiles/gtest_main.dir
 /root/my_ws/build/gtest/googletest/CMakeFiles/gtest.dir
+/root/my_ws/build/my_ps_system/CMakeFiles/install/strip.dir
+/root/my_ws/build/my_ps_system/CMakeFiles/install/local.dir
+/root/my_ws/build/my_ps_system/CMakeFiles/install.dir
+/root/my_ws/build/my_ps_system/CMakeFiles/list_install_components.dir
+/root/my_ws/build/my_ps_system/CMakeFiles/rebuild_cache.dir
+/root/my_ws/build/my_ps_system/CMakeFiles/edit_cache.dir
+/root/my_ws/build/my_ps_system/CMakeFiles/test.dir
+/root/my_ws/build/my_ps_system/CMakeFiles/_catkin_empty_exported_target.dir

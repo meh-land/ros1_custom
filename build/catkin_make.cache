@@ -1,2 +1,2 @@
-
+my_ps_system
 -DCATKIN_DEVEL_PREFIX=/root/my_ws/devel -DCMAKE_INSTALL_PREFIX=/root/my_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/root/my_ws/devel
+
+Name: my_ps_system
+Description: Description of my_ps_system
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
